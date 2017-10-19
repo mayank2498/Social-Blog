@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f500c23-ab07-458d-97e2-cb5abc93fc29" name="Default" comment="" />
+    <list default="true" id="5f500c23-ab07-458d-97e2-cb5abc93fc29" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/Strawberries_JawndW1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/Strawberries_JawndW1_TOSyFgc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/Strawberries_JawndW1_gmlumak.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/Strawberries_LRr5axj.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/Strawberries_ZklR5CB.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/bg2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/bg2_ZWlF0i7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/default_NdF3adx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/default_Nf0SYR2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/default_VvpZMiX.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/default_c2knu7V.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/default_hp7g7u4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/default_lFJvery.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/images_1506920235826.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_1PNFkup.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_2TAZ5iD.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_7AeoEVM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_Byx01QI.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_FCDTH4O.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_eGgYnqt.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_eGgYnqt_IFojUqO.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_eGgYnqt_ylRyfU8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_j30jmK0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_j30jmK0_NoWo6nk.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_j30jmK0_ZDaSEo3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_nvxiyjn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_rfdP2wJ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_xEKwuq5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_xsxAEQU.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_zdr6ZZB.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/lp_oml_fbog_021417_RW4aTzr.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -169,6 +202,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeutsav" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeutsav" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="media" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -538,9 +585,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="80" y="-5" width="1841" height="1086" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17557682" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17557682" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.057142857" sideWeight="0.50196964" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
