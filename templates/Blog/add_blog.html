@@ -1,0 +1,70 @@
+
+
+<!--
+<!DOCTYPE html>
+<html lang="en">
+<title>CodeUtsava Blog</title>
+<head>
+    <meta charset="UTF-8">
+    <title>Blogs</title>
+</head>
+{% load static %}
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="{% static 'Blog/blog.css' %}">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body style="background-color:black;">
+
+<h5 align="center">
+<a href="{% url 'Blog:add_blog' %}">
+
+    <button type="submit" class="btn btn-success"><h5>Add Blog</h5> </h5>
+        </button>
+</a>
+<div class="albums-container container-fluid">
+<div class="row">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.10";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script type="IN/Share" data-url="https://codepen.io/fauverism/pen/eAKJk?page=1&" data-counter="top"></script>
+
+{% for blog in blogs %}
+
+    <div class="col-sm-4" >
+        <div class="thumbnail">
+            <div class="caption">
+                <a href="{% url 'Blog:blog_full' blog.id %}">
+                <h3 align="center" style="font-family: 'Nimbus Mono L';color: darkblue"><b>{{blog.title}}</b><img align="right" src="{{ blog.image.url }}" height="100" width="100" class="w3-circle"><br><br></h3>
+                <h6 align="center" style="font-family:'Abyssinica SIL'">{{blog.description}}</h6>
+                    <br><br>
+                    <h1 align="right"><span class="badge"><h6 style="font-family:'Abyssinica SIL'"> - {{blog.author}}<br><br>{{ blog.designation }}</h6></span></h1>
+
+                </a>
+
+ <div class="fb-share-button" data-href="http://127.0.0.1:8000/blog/{{ blog.id }}" data-layout="button" data-size="large" data-mobile-iframe="true"><a class="fa fa-facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2F127.0.0.1%3A8000%2Fblog%2F{{ blog.id }}&amp;src=sdkpreparse"></a>
+
+
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                    <a href="#" class="fa fa-instagram"></a></div>
+            </div>
+
+    </div>
+    </div>
+{% endfor %}
+</div>
+</div>
+
+
+</body>
+</html>
+
+
+-->

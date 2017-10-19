@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Blog Details</title>
+</head>
+<body style="background-color: #DDDDDD">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- like button -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="w3-card-4 w3-margin w3-white">
+	<h1 align="center">
+    <img src="{{ blog.image.url }}" height="200" width="200" style="padding: 0.5%">
+    </h1>
+    <div class="w3-container">
+      <h3 align="center"><b>{{ blog.title }}</b></h3>
+      <h5 align="center">{{ blog.description }} <span class="w3-opacity"><br><br>{{ blog.created }}</span></h5>
+    </div>
+  </div>
+
+
+<div class="w3-card-10 w3-margin w3-white" style="width: 100%; align-items: center">
+<div class="fb-comments" data-href="http://127.0.0.1:8000/blog{{ blog.id }}" data-numposts="5" style="width: 100%"></div>
+<div class="fb-like" data-href="http://127.0.0.1:8000/blog/{{ blog.id }}" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+</div>
+</body>
+</html>
