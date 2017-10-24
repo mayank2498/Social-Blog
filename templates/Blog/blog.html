@@ -18,7 +18,11 @@
     <link href="{% static 'Blog/css/clean-blog.css' %}" rel="stylesheet">
 
   </head>
-
+    <script>
+        {% if message %}
+            alert("{{ message }}");
+        {% endif %}
+    </script>
   <body>
 
     <!-- Navigation -->
@@ -83,6 +87,7 @@
           </div>
           <hr>
           {% endfor %}
+    <!--
           <div class="post-preview">
             <a href="#">
               <h2 class="post-title">
@@ -122,10 +127,12 @@
               on July 8, 2017</p>
           </div>
           <hr>
-          <!-- Pager -->
+
           <div class="clearfix">
             <a class="btn btn-secondary float-right" href="#">Older Posts &rarr;</a>
           </div>
+
+    -->
         </div>
       </div>
     </div>

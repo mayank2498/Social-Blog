@@ -2,13 +2,11 @@
 <html lang="en">
 
   <head>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-
-    <title>Clean Blog - Start Bootstrap Theme</title>
+    <title>Blog::Codeutsava 2.0</title>
     {% load static %}
     <!-- Bootstrap core CSS -->
     <link href="{% static 'Blog/css/bootstrap.min.css' %}" rel="stylesheet">
@@ -69,13 +67,6 @@
     <header class="masthead" style="background-image: url({% static 'Blog/img/post-bg.jpg' %})">
       <div class="container">
         <div class="row">
-
-             <div class="col-sm-5 col-md-4" id="mydiv"><br><br><br><br><br>
-
-                        <img src="{{ blog.image.url }}" height="300px" width="300px" class="w3-circle" border="5">
-
-            </div>
-
           <div class="col-lg-8 col-md-1 mx-auto">
             <div class="post-heading">
               <h1>{{blog.title}}</h1>
@@ -85,7 +76,6 @@
                 on {{blog.created}}</span>
             </div>
           </div>
-
         </div>
       </div>
     </header>
@@ -95,7 +85,10 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-md-10 mx-auto">
+              <p align="center"><img src="{{ blog.image.url }}" height="150px" width="150px" class="w3-circle"></p>
+              <p>
             {{ blog.description }}
+              </p>
           </div>
         </div>
       </div>
@@ -103,7 +96,7 @@
 
     <hr>
 
-    <div class="w3-card-5 w3-margin w3-blue" style="width: 100%; align-items: right">
+    <div class="w3-card-5 w3-margin w3-white" style="width: 100%; align-items: right">
 <div class="fb-comments" data-href="http://127.0.0.1:8000/blog{{ blog.id }}" data-numposts="5" style="width: 100%"></div>
 <div class="fb-like" data-href="http://127.0.0.1:8000/blog/{{ blog.id }}" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
 </div>
@@ -142,7 +135,7 @@
                 </a>
               </li>
             </ul>
-            <p class="copyright text-muted">Copyright &copy; Your Website 2017</p>
+            <p class="copyright text-muted">Copyright &copy; CODEUTSAVA 2017</p>
           </div>
         </div>
       </div>

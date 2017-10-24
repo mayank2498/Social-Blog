@@ -8,7 +8,7 @@ from django.core.mail import EmailMultiAlternatives
 
 # An email will be sent to these id's with a link attached to aprrove the blog requests that people submit
 
-admin_emails = ['mayankchaurasia.bsp@gmail.com']
+admin_emails = ['mayankchaurasia.bsp@gmail.com','yash199649@gmail.com']
 
 def blog(request):
     blogs = Blog.objects.filter(allow=True)
@@ -58,14 +58,15 @@ def add_blog(request):
             email.attach(msg_img)
             email.send()
         except Exception as e:
-            print("Couldnt send email")
+            print(e)
             return HttpResponse("could_not_send_email")
         print("Successful in sending email for blog request")
         return HttpResponse("successful")
 
 def approve_blog(request,blog_id):
+    blogs = Blog.objects.filter(allow=True)
+    blogs = sorted(blogs, key=lambda x: x.created, reverse=True)
     if request.user.is_authenticated():
-        print(blog_id)
         try :
             blog = Blog.objects.get(pk=int(blog_id))
         except Exception as e:
@@ -74,11 +75,11 @@ def approve_blog(request,blog_id):
         blog.allow = "True"
         blog.save()
         print("Successfully approved a blog..")
-        return redirect('/blog')
+        return render(request, 'Blog/blog.html', {'blogs': blogs,'message':"Approval accepted"})
 
     else:
         print("Forbidden. Admin not logged in !")
-        return redirect('/blog')
+        return render(request, 'Blog/blog.html', {'blogs': blogs, 'message': "Forbidden. Admin not logged in !"})
 
 def blog_full(request,blog_id):
     print(blog_id)

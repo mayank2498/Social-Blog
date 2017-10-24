@@ -177,7 +177,6 @@
     }
     .form-all:before {
       content: "";
-      background-image: url("https://www.jotform.com/uploads/guest_72845267484064/form_files/default.30.png");
       display: inline-block;
       height: 100px;
       position: absolute;
@@ -335,7 +334,10 @@
                 $('#img').hide();
                 $(':input[type="submit"]').prop('disabled', false);
                 console.log(data);
-                if (data == "successful"){ alert('Thank you for your Blog submission !'); }
+                if (data == "successful"){
+                    alert('Thank you for your Blog submission !');
+                    window.location = "/blog"
+                }
                 else if (data == "could_not_send_email") { alert('There was some trouble sending the email to administrators of CodeUtsava. Try reloading the page. ') }
                 else { alert("Wrong image format !"); }
             },
