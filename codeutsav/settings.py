@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'social_widgets',
     'Blog',
     'slack_invitation',
+    'pagedown'
 ]
 
 MIDDLEWARE = [
@@ -135,6 +136,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'mayankchaurasia.bsp@gmail.com'
 EMAIL_HOST_PASSWORD = ''
 EMAIL_PORT = 587
+
 
 DJANGO_SLACK_INVITATION_TEAM = 'codeutsav'
 DJANGO_SLACK_INVITATION_TOKEN = 'enQtMjQwOTQxMzU2MjEyLTQyZjliOTNkZGZlODNjYTA5ZGUzOGQ1N2NlYzRjNDQ2ZjE0YjVjZmIzYmNiMzhiMzllNzI2MGEwNjA2M2IyOTc'

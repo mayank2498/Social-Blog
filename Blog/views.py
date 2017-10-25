@@ -5,10 +5,10 @@ from . models import Blog
 from django.conf import settings
 from email.mime.image import MIMEImage
 from django.core.mail import EmailMultiAlternatives
-
+from . forms import BlogForm
 # An email will be sent to these id's with a link attached to aprrove the blog requests that people submit
 
-admin_emails = ['mayankchaurasia.bsp@gmail.com','yash199649@gmail.com']
+admin_emails = ['mayankchaurasia.bsp@gmail.com']
 
 def blog(request):
     blogs = Blog.objects.filter(allow=True)
@@ -18,11 +18,22 @@ def blog(request):
 IMAGE_FILE_TYPES = ['png','jpg','jpeg']
 def add_blog(request):
     if request.method == 'GET':
-        return render(request,'Blog/blog_add_new.html')
+        form = BlogForm()
+        return render(request,'Blog/blog_add_new.html',{'form':form})
     else:
+
         print("POST BLOG REQUEST")
         name = request.POST['name']
         description = request.POST['description']
+
+        #form = BlogForm(request.POST)
+        #if form.is_valid():
+        #    description = form.cleaned_data['description1']
+        #else:
+        #    print("Invalid form")
+        #    return render(request, 'Blog/blog_add_new.html', {'form': form})
+
+
         designation = request.POST['designation']
         title = request.POST['title']
         try:
@@ -42,6 +53,10 @@ def add_blog(request):
         blog.description = description
         blog.title = title
         blog.image = image
+
+        blog.allow = True
+        
+
         blog.save()
         approve = str(request.get_host()) + "/blog/approve/" + str(blog.pk)
         message = "<b>Author</b> : " + str(name)
