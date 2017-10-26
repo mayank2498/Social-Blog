@@ -17,6 +17,33 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
     <link href="{% static 'Blog/css/clean-blog.css' %}" rel="stylesheet">
 
+      <style>
+                #social {
+          height:50px;
+          width:50px;
+      }
+
+      ul.share-buttons{
+  list-style: none;
+  padding: 0;
+}
+
+ul.share-buttons li{
+  display: inline;
+}
+
+ul.share-buttons .sr-only{
+  position: absolute;
+  clip: rect(1px 1px 1px 1px);
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 0;
+  border: 0;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
+      </style>
+
   </head>
     <script>
         {% if message %}
@@ -82,6 +109,22 @@
                     <p class="post-meta">Posted by
                       <a href="#">{{ blog.author }}</a>
                       on {{ blog.created }}</p>
+                    <p>
+
+                                        <!-- social media share -->
+
+  <ul class="share-buttons">
+  <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.google.com&t=Blog%20COdeutsava" title="Share on Facebook" target="_blank"><img id="social" alt="Share on Facebook" src="{% static 'Blog/img/color/Facebook.png' %}" /></a></li>
+  <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fwww.google.com&text=Blog%20COdeutsava:%20http%3A%2F%2Fwww.google.com" target="_blank" title="Tweet"><img id="social" alt="Tweet" src="{% static 'Blog/img/color/Twitter.png' %}" /></a></li>
+  <li><a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.google.com" target="_blank" title="Share on Google+"><img id="social" alt="Share on Google+" src="{% static 'Blog/img/color/Google+.png' %}" /></a></li>
+  <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.google.com&title=Blog%20COdeutsava&summary=&source=http%3A%2F%2Fwww.google.com" target="_blank" title="Share on LinkedIn"><img id="social" alt="Share on LinkedIn" src="{% static 'Blog/img/color/LinkedIn.png' %}" /></a></li>
+</ul>
+
+  <!-- end social media share -->
+
+
+
+                    </p>
           </div>
                 </div>
           </div>

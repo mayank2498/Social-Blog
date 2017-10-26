@@ -22,10 +22,36 @@
   </head>
 
   <style>
+
       img {
-          height:300px;
-          width: 300px;
+          height:150px;
+          width:150px;
       }
+
+      #social {
+          height:50px;
+          width:50px;
+      }
+
+      ul.share-buttons{
+  list-style: none;
+  padding: 0;
+}
+
+ul.share-buttons li{
+  display: inline;
+}
+
+ul.share-buttons .sr-only{
+  position: absolute;
+  clip: rect(1px 1px 1px 1px);
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 0;
+  border: 0;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
   </style>
   <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -47,6 +73,7 @@
 
 
   <body>
+
 
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
@@ -76,7 +103,21 @@
           <div class="col-lg-8 col-md-1 mx-auto">
             <div class="post-heading">
               <h1>{{blog.title}}</h1>
+
               <br><br>
+
+                <!-- social media share -->
+
+  <ul class="share-buttons">
+  <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.google.com&t=Blog%20COdeutsava" title="Share on Facebook" target="_blank"><img id="social" alt="Share on Facebook" src="{% static 'Blog/img/color/Facebook.png' %}" /></a></li>
+  <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fwww.google.com&text=Blog%20COdeutsava:%20http%3A%2F%2Fwww.google.com" target="_blank" title="Tweet"><img id="social" alt="Tweet" src="{% static 'Blog/img/color/Twitter.png' %}" /></a></li>
+  <li><a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.google.com" target="_blank" title="Share on Google+"><img id="social" alt="Share on Google+" src="{% static 'Blog/img/color/Google+.png' %}" /></a></li>
+  <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.google.com&title=Blog%20COdeutsava&summary=&source=http%3A%2F%2Fwww.google.com" target="_blank" title="Share on LinkedIn"><img id="social" alt="Share on LinkedIn" src="{% static 'Blog/img/color/LinkedIn.png' %}" /></a></li>
+</ul>
+
+  <!-- end social media share -->
+
+<br><br>
               <span class="meta">Posted by
                 <a href="#">{{ blog.author }}</a>
                 on {{blog.created}}</span>

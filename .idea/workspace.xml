@@ -2,10 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f500c23-ab07-458d-97e2-cb5abc93fc29" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/static/Blog/img/color/Email.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/static/Blog/img/color/Facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/static/Blog/img/color/Google+.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/static/Blog/img/color/LinkedIn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/static/Blog/img/color/Pinboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/static/Blog/img/color/Pinterest.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/static/Blog/img/color/Pocket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/static/Blog/img/color/Reddit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/static/Blog/img/color/Tumblr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/static/Blog/img/color/Twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blog/static/Blog/img/color/Wordpress.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/IMG_20170922_112630.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/Strawberries.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/Strawberries_JawndW1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_2OvksaE.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_966yI6w.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_HpXyGLS.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_N6xbtrJ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_UmG71Im.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_XNNLzSI.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_eGgYnqt.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_eGgYnqt_UpGwOj4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_eGgYnqt_ZQlWAJr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_eGgYnqt_cCA4NJ9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_eGgYnqt_lnYGfJY.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_eGgYnqt_qE7scpe.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_eGgYnqt_xRZfPOA.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_eGgYnqt_y4MYIXa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_j30jmK0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_j30jmK0_5ne2bxx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_j30jmK0_Nuw9Hbh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_j30jmK0_ODISkc7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_j30jmK0_jC5U8Dv.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_j30jmK0_jTCmCZy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_j30jmK0_qj1JMGJ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_jtA63nB.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_q9SubAv.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_rfdP2wJ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_rfdP2wJ_YNrQ2XH.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_suP6U2z.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/jb_svEWoKA.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/linkin.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/linkin_4EvyNCQ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/lp_oml_fbog_021417_RW4aTzr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Blog/lp_oml_fbog_021417_U6B6KC8.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/views.py" afterPath="$PROJECT_DIR$/Blog/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codeutsav/settings.py" afterPath="$PROJECT_DIR$/codeutsav/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Blog/blog.html" afterPath="$PROJECT_DIR$/templates/Blog/blog.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Blog/blog_add_new.html" afterPath="$PROJECT_DIR$/templates/Blog/blog_add_new.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Blog/blog_full_new.html" afterPath="$PROJECT_DIR$/templates/Blog/blog_full_new.html" />
     </list>
@@ -25,51 +70,9 @@
       <file leaf-file-name="blog_add_new.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/Blog/blog_add_new.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1627">
-              <caret line="598" column="31" lean-forward="true" selection-start-line="598" selection-start-column="31" selection-end-line="598" selection-end-column="31" />
+            <state relative-caret-position="-2208">
+              <caret line="240" column="20" lean-forward="true" selection-start-line="240" selection-start-column="20" selection-end-line="240" selection-end-column="20" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog_full_new.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/Blog/blog_full_new.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pagedown.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codeutsav/static/admin/css/pagedown.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1259">
-              <caret line="246" column="0" lean-forward="true" selection-start-line="246" selection-start-column="0" selection-end-line="246" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Blog/static/Blog/css/custom.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="32" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="246" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Blog/forms.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#24#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -77,30 +80,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/codeutsav/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="136" column="23" lean-forward="false" selection-start-line="136" selection-start-column="23" selection-end-line="136" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Blog/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="937">
-              <caret line="57" column="8" lean-forward="false" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Blog/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="2237">
+              <caret line="120" column="0" lean-forward="true" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -134,15 +115,15 @@
         <option value="$PROJECT_DIR$/templates/Blog/add_blog.html" />
         <option value="$PROJECT_DIR$/templates/Blog/blog_full+new.html" />
         <option value="$PROJECT_DIR$/templates/Blog/blog_new_add_1.html" />
-        <option value="$PROJECT_DIR$/templates/Blog/blog.html" />
         <option value="$PROJECT_DIR$/Blog/admin.py" />
         <option value="$PROJECT_DIR$/Blog/static/Blog/css/custom.css" />
         <option value="$PROJECT_DIR$/Blog/static/admin/css/pagedown.css" />
         <option value="$PROJECT_DIR$/codeutsav/static/admin/css/pagedown.css" />
         <option value="$PROJECT_DIR$/Blog/forms.py" />
-        <option value="$PROJECT_DIR$/templates/Blog/blog_add_new.html" />
         <option value="$PROJECT_DIR$/Blog/views.py" />
+        <option value="$PROJECT_DIR$/templates/Blog/blog.html" />
         <option value="$PROJECT_DIR$/templates/Blog/blog_full_new.html" />
+        <option value="$PROJECT_DIR$/templates/Blog/blog_add_new.html" />
         <option value="$PROJECT_DIR$/codeutsav/settings.py" />
       </list>
     </option>
@@ -154,8 +135,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="80" />
-    <option name="y" value="-1085" />
+    <option name="x" value="-1840" />
+    <option name="y" value="-5" />
     <option name="width" value="1841" />
     <option name="height" value="1086" />
   </component>
@@ -175,114 +156,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codeutsav" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codeutsav" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codeutsav" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codeutsav" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codeutsav" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codeutsav" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="media" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codeutsav" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codeutsav" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codeutsav" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codeutsav" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codeutsav" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codeutsav" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Problems">
           <PATH>
@@ -383,6 +256,128 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeutsav" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeutsav" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeutsav" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeutsav" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeutsav" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeutsav" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="media" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeutsav" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeutsav" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeutsav" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeutsav" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeutsav" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeutsav" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeutsav" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeutsav" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeutsav" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scratches" />
     </panes>
   </component>
@@ -394,16 +389,16 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/codeutsav/static" />
-      <recent name="$PROJECT_DIR$/Blog/static/Blog" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Blog/static/Blog/img" />
       <recent name="$PROJECT_DIR$/codeutsav" />
       <recent name="$PROJECT_DIR$/Blog/static/Blog/css" />
       <recent name="$PROJECT_DIR$/templates/Blog/css" />
       <recent name="$PROJECT_DIR$/templates/Blog" />
-      <recent name="$PROJECT_DIR$/media/Blog" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/codeutsav/static" />
+      <recent name="$PROJECT_DIR$/Blog/static/Blog" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -647,10 +642,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="80" y="-1085" width="1841" height="1086" extended-state="6" />
+    <frame x="-1840" y="-5" width="1841" height="1086" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18683174" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18964547" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.104395606" sideWeight="0.50196964" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -927,39 +922,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#32#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codeutsav/static/Blog/css/styles/form.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/codeutsav/static/Blog/css/styles/form.css" />
     <entry file="file://$PROJECT_DIR$/Blog/static/Blog/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="246" selection-end-column="0" />
+        <state relative-caret-position="736">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="246" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/codeutsav/static/admin/css/pagedown.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1259">
-          <caret line="246" column="0" lean-forward="true" selection-start-line="246" selection-start-column="0" selection-end-line="246" selection-end-column="0" />
+        <state relative-caret-position="5658">
+          <caret line="246" column="0" lean-forward="false" selection-start-line="246" selection-start-column="0" selection-end-line="246" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Blog/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
+        <state relative-caret-position="161">
           <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
@@ -977,7 +962,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Blog/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="937">
+        <state relative-caret-position="1150">
           <caret line="57" column="8" lean-forward="false" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -985,34 +970,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Blog/blog_add_new.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1627">
-          <caret line="598" column="31" lean-forward="true" selection-start-line="598" selection-start-column="31" selection-end-line="598" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/Blog/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-966">
-          <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        <state relative-caret-position="799">
+          <caret line="43" column="1" lean-forward="false" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/Blog/blog_full_new.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        <state relative-caret-position="322">
+          <caret line="119" column="8" lean-forward="false" selection-start-line="119" selection-start-column="8" selection-end-line="119" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Blog/blog_add_new.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2208">
+          <caret line="240" column="20" lean-forward="true" selection-start-line="240" selection-start-column="20" selection-end-line="240" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/codeutsav/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="136" column="23" lean-forward="false" selection-start-line="136" selection-start-column="23" selection-end-line="136" selection-end-column="23" />
+        <state relative-caret-position="2237">
+          <caret line="120" column="0" lean-forward="true" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
           <folding />
         </state>
       </provider>
